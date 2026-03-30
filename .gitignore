@@ -1,3 +1,4 @@
 /vendor
 /.chitra
 .env
+database/database.sqlite
